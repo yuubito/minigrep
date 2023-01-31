@@ -1,3 +1,3 @@
 # minigrep
-# minigrep
-# minigrep
+# usage
+$ cargo run -- [query] [file]
